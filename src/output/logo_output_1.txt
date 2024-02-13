@@ -1,0 +1,14 @@
+Case #1: 24
+Case #2: 35
+Case #3: 21
+Case #4: 42
+Case #5: 72
+Case #6: 41013
+Case #7: 0
+Case #8: 99216
+Case #9: 75628
+Case #10: 0
+Case #11: 53568
+Case #12: 112173
+Case #13: 158400
+Case #14: 275621
